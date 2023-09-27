@@ -2,5 +2,5 @@
 {
   "firstName": "Mary",
   "lastName": "Chacia",
-  "project": Hello World
+  "project": "Hello World",
 }
